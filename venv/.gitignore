@@ -1,0 +1,23 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+*.env
+
+# OS / Editor stuff
+.DS_Store
+*.swp
+
+# Build artifacts
+dist/
+build/
+
+# Node stuff (if applicable)
+node_modules/
